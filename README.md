@@ -1,0 +1,2 @@
+# Youtube-Transcript-Grabber
+To use this, drag this link to your bookmarks bar and click on it when needed. Drag this to bookmarks -> <a href='javascript:document.querySelectorAll(".yt-spec-touch-feedback-shape")[9].click(); setTimeout(() => { document.querySelectorAll(".ytd-menu-service-item-renderer")[8].click(); }, 1000); var st=""; with ({ copy }) { setTimeout(() => { document.querySelectorAll(".segment-text").forEach((el) => { st+=el.textContent+" "; }); copy(st); }, 3000); }'>Click Here to Get Transcript</a>.
